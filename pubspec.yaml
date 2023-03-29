@@ -1,0 +1,22 @@
+name: event_modals
+description: Holds modals and dialog methods to make using the event_bloc package more convenient
+version: 0.1.0
+homepage:
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  event_bloc: ^4.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
