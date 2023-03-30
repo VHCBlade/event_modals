@@ -20,7 +20,7 @@ Future<T?> showEventDialog<T>({
   required Widget Function(BuildContext) builder,
   bool useRootNavigator = false,
   bool useSafeArea = true,
-  required HandleDialogResponse onResponse,
+  required HandleDialogResponse<T> onResponse,
   HandleDialogDispose? onNullResponse,
   bool showModal = true,
   T? defaultValue,
