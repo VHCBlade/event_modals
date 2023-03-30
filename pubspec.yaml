@@ -1,6 +1,6 @@
 name: event_modals
 description: Holds modals and dialog methods to make using the event_bloc package more convenient
-version: 0.1.2
+version: 0.1.3
 homepage: https://github.com/VHCBlade/event_modals
 
 environment:

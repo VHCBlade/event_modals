@@ -1,6 +1,10 @@
+## 0.1.3
+
+* Added DoubleEditModal.
+
 ## 0.1.2
 
-* Added StringEntryModal.
+* Added StringEditModal.
 
 ## 0.1.1
 
